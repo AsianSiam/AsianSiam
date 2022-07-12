@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @AsianSiam
-- 👀 I’m interested in code
-- 🌱 I’m currently learning at Ecole42 - Lausanne
-- 📫 How to reach me contact@asiansiam.com
-
-<!---
-AsianSiam/AsianSiam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+“Le premier qui, ayant enclos un terrain, s'avisa de dire « Ceci est à moi », et trouva des gens assez simples pour le croire, fut le vrai fondateur de la société civile”
